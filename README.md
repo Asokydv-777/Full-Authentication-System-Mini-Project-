@@ -128,3 +128,4 @@ Verify: Returns the exact same generic message as a successful request.
 ☑ Reset tokens are single-use (invalidated immediately after use).
 ☑ Reset tokens expire after a set time (1 hour).
 ☑ Sensitive data (.env) is excluded from version control via .gitignore.# Full-Authentication-System-Mini-Project-
+# Full-Authentication-System-Mini-Project-
